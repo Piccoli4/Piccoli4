@@ -37,7 +37,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=redmine&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
