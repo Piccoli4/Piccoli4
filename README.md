@@ -48,7 +48,7 @@ Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en
 ## 💼 Experiencia Profesional
 
 🏥 **Técnico Informático / Soporte y Desarrollo**  
-**Sanatorio Santa Fe** · Jornada completa · Presencial  
+**Sanatorio Santa Fe**  
 *oct. 2025 – Actualidad* · Santa Fe, Argentina
 - Soporte técnico integral a usuarios del sanatorio (hardware y software).
 - Instalación, configuración y mantenimiento de PCs, periféricos y sistemas operativos.
@@ -60,13 +60,15 @@ Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en
 - Optimización de procesos tecnológicos internos en entornos críticos de salud.
 
 🏥 **Desarrollador Web**  
-**Ministerio de Salud – Provincia de Santa Fe** (2023 – 2024)
+**Ministerio de Salud – Provincia de Santa Fe**
+*ene. 2023 - ene. 2024* . Santa Fe, Argentina
 - Desarrollo y mantenimiento de sistemas web con **PHP y Symfony**.
 - Implementación de arquitectura **MVC** y principios **SOLID**.
 - Optimización de bases de datos SQL utilizando ORM.
 - Manejo de información sensible cumpliendo buenas prácticas de seguridad.
 
-💻 **Desarrollador Full Stack Freelance** (2022 – Presente)
+💻 **Desarrollador Full Stack Freelance**
+*may. 2022 - Actualidad* . Home Office
 - Diseño e implementación de aplicaciones web a medida.
 - Desarrollo full stack desde la planificación hasta el despliegue.
 - Comunicación directa con clientes para relevar requerimientos y proponer soluciones.
