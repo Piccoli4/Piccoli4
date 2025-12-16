@@ -2,7 +2,8 @@
 
 ### 🚀 Desarrollador Full Stack | Técnico Universitario en Informática | Soporte IT
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en el desarrollo de aplicaciones web y móviles, con un enfoque centrado en la experiencia del usuario.
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. 
+Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en el desarrollo de aplicaciones web y móviles, con un enfoque centrado en la experiencia del usuario.
 
 ---
 
