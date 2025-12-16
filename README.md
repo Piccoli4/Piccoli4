@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Piccoli Guido Augusto 
 
-### 🚀 Desarrollador Full Stack | Técnico Universitario en Informática
+### 🚀 Desarrollador Full Stack | Técnico Universitario en Informática | Soporte IT
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y escalables. Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en el desarrollo de aplicaciones web y móviles, con un enfoque centrado en la experiencia del usuario.
 
@@ -46,36 +46,57 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y 
 
 ## 💼 Experiencia Profesional
 
-🏥 **Desarrollador Web** - Ministerio de Salud Provincia de Santa Fe (2023-2024)
-- Desarrollo y mantenimiento de sistemas con PHP y Symfony
-- Implementación de arquitectura MVC y principios SOLID
-- Optimización de bases de datos SQL con ORM y transacciones ACID
-- Gestión de seguridad para datos médicos sensibles
+🏥 **Técnico Informático / Soporte y Desarrollo**  
+**Sanatorio Santa Fe** · Jornada completa · Presencial  
+*oct. 2025 – Actualidad* · Santa Fe, Argentina
+- Soporte técnico integral a usuarios del sanatorio (hardware y software).
+- Instalación, configuración y mantenimiento de PCs, periféricos y sistemas operativos.
+- Resolución de incidencias técnicas y soporte de primer y segundo nivel.
+- Desarrollo y mantenimiento de herramientas web internas.
+- Trabajo en frontend con **HTML, CSS y Bootstrap**.
+- Colaboración en backend con **PHP y Python**.
+- Consultas **SQL** mediante **Navicat** para reportes y análisis de datos.
+- Optimización de procesos tecnológicos internos en entornos críticos de salud.
 
-💻 **Desarrollador Full Stack Freelance** (2022-Presente)
-- Diseño e implementación de soluciones desde cero
-- Ciclo completo de desarrollo: planificación, arquitectura, implementación y mantenimiento
-- Colaboración directa con clientes para traducir necesidades en soluciones eficientes
+🏥 **Desarrollador Web**  
+**Ministerio de Salud – Provincia de Santa Fe** (2023 – 2024)
+- Desarrollo y mantenimiento de sistemas web con **PHP y Symfony**.
+- Implementación de arquitectura **MVC** y principios **SOLID**.
+- Optimización de bases de datos SQL utilizando ORM.
+- Manejo de información sensible cumpliendo buenas prácticas de seguridad.
+
+💻 **Desarrollador Full Stack Freelance** (2022 – Presente)
+- Diseño e implementación de aplicaciones web a medida.
+- Desarrollo full stack desde la planificación hasta el despliegue.
+- Comunicación directa con clientes para relevar requerimientos y proponer soluciones.
 
 ---
 
 ## 🎓 Formación Académica
 
-🎓 **Universidad Nacional del Litoral**
-- Técnico Universitario en Informática de Gestión (2021-2024)
-- Licenciado en Tecnologías para la Gestión de las Organizaciones (2025-Presente)
+🎓 **Universidad Nacional del Litoral**  
+Santa Fe, Argentina  
+**Licenciatura en Tecnologías para la Gestión de las Organizaciones**  
+*abril 2025 – Presente*
 
-📚 **Instituto de Estudios Superiores de Buenos Aires**
-- Analista de Sistemas (2025-Presente)
+🎓 **Instituto de Estudios Superiores de Buenos Aires**  
+Buenos Aires, Argentina  
+**Analista de Sistemas**  
+*marzo 2025 – Presente*
+
+🎓 **Universidad Nacional del Litoral**  
+Santa Fe, Argentina  
+**Técnico Universitario en Informática de Gestión**  
+*abril 2021 – diciembre 2024*
 
 ---
 
 ## 🌱 Actualmente
 
-- 🔭 Trabajando en proyectos freelance de desarrollo web y móvil
-- 🌱 Profundizando en Python como parte de mi formación continua
-- 🎯 Cursando la Licenciatura en Tecnologías para la Gestión de las Organizaciones
-- 📚 Estudiando Analista de Sistemas
+- 🏥 Trabajando en el área de sistemas del **Sanatorio Santa Fe**, combinando soporte IT y desarrollo de herramientas internas.
+- 💻 Desarrollando soluciones web tanto en proyectos internos como freelance.
+- 🌱 Profundizando en **Python** y **SQL** aplicados a sistemas reales.
+- 🎯 En formación continua como **Licenciado en Tecnologías** y **Analista de Sistemas**.
 
 ---
 
