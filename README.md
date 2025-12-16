@@ -61,14 +61,14 @@ Me gradué de la Universidad Nacional del Litoral y tengo experiencia sólida en
 
 🏥 **Desarrollador Web**  
 **Ministerio de Salud – Provincia de Santa Fe**  
-*ene. 2023 - ene. 2024* . Santa Fe, Argentina
+*ene. 2023 - ene. 2024* · Santa Fe, Argentina
 - Desarrollo y mantenimiento de sistemas web con **PHP y Symfony**.
 - Implementación de arquitectura **MVC** y principios **SOLID**.
 - Optimización de bases de datos SQL utilizando ORM.
 - Manejo de información sensible cumpliendo buenas prácticas de seguridad.
 
 💻 **Desarrollador Full Stack Freelance**  
-*may. 2022 - Actualidad* . Home Office
+*may. 2022 - Actualidad* · Home Office
 - Diseño e implementación de aplicaciones web a medida.
 - Desarrollo full stack desde la planificación hasta el despliegue.
 - Comunicación directa con clientes para relevar requerimientos y proponer soluciones.
